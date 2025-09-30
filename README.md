@@ -1,1 +1,1 @@
-# easyChecks-grid
+# easyChecks, la grille
